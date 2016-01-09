@@ -1,4 +1,4 @@
-package com.schubergphilis.mcc.academy.checkstyle;
+package com.schubergphilis.mcc.academy.checkstyle.test;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
