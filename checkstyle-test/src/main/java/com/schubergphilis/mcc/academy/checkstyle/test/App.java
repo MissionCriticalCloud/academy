@@ -2,7 +2,7 @@ package com.schubergphilis.mcc.academy.checkstyle.test;
 
 public class App {
 
-    public void GETTEST() {
+    public void getTest() {
 
     }
 
