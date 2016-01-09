@@ -10,7 +10,11 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
-cosmic-checktyle/.classpath
-cosmic-checktyle/.gitignore
-cosmic-checktyle/.project
-cosmic-checktyle/.settings/
+checkstyle/.classpath
+checkstyle/.gitignore
+checkstyle/.project
+checkstyle/.settings/
+checkstyle-test/.classpath
+checkstyle-test/.gitignore
+checkstyle-test/.project
+checkstyle-test/.settings/
