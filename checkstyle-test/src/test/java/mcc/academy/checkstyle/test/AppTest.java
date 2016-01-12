@@ -6,8 +6,8 @@ import org.junit.Test;
 
 public class AppTest {
 
-    @Test
-    public void testApp() {
-        assertTrue(true);
-    }
+  @Test
+  public void testApp() {
+    assertTrue(true);
+  }
 }
