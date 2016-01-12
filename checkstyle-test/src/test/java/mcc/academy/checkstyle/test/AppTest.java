@@ -1,4 +1,4 @@
-package com.schubergphilis.mcc.academy.checkstyle.test;
+package mcc.academy.checkstyle.test;
 
 import static org.junit.Assert.assertTrue;
 
