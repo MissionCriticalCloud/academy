@@ -15,3 +15,9 @@ checkstyle-test/.gitignore
 checkstyle-test/.project
 checkstyle-test/.settings/
 checkstyle-test/.checkstyle
+
+# Parent Module
+parent-module/.checkstyle
+parent-module/.classpath
+parent-module/.project
+parent-module/.settings/
